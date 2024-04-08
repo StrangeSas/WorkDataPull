@@ -20,37 +20,50 @@ def get_links(text):
     for page in range(page_count):
         try:
             data = requests.get(
-                url="https://krasnoyarsk.hh.ru/search/vacancy?L_save_area=true&text={text}&excluded_text=&area=113&salary=&currency_code=RUR&experience=doesNotMatter&order_by=relevance&search_period=0&items_on_page=50&page={page}",
+                url="https://krasnoyarsk.hh.ru/search/resume?text={text}&area=54&isDefaultArea=true&ored_clusters=true&order_by=relevance&search_period=0&logic=normal&pos=full_text&exp_period=all_time&page={page}",
                 headers={"user-agent": ua.random}
             )
             if data.status_code == 200:
                 soup = BeautifulSoup(data.content, "lxml")
-                for i in soup.find("div", attrs={"data-qa":"vacancy-serp__results"}).find_all("div", attrs={"class":"serp-item_link"}):
-                    yield f'{i.find("a", "bloko-link").attrs["href"].split("?")[0]}'
+                for i in soup.find("main", attrs={"class":"resume-serp-content"}).find_all("div", attrs={"data-qa":"resume-serp__resume"}):
+                    yield f'https://hh.ru/{i.find("a", "bloko-link").attrs["href"].split("?")[0]}'
         except Exception as e:
             print(f"{e}")
-        time.sleep(1)
+        time.sleep(0.2)
     print(page_count)
 def get_resume(link):
-    pass
+    ua = fake_useragent.UserAgent()
+    data = requests.get(
+        url=link,
+        headers={"user-agent": ua.random}
+    )
+    if data.status_code != 200:
+        return
+    soup = BeautifulSoup(data.content, "lxml")
+    try:
+        name = soup.find(attrs={"class":"resume-block__title-text"}).text
+    except:
+        name =""
+    try:
+        salary = soup.find(attrs={"class":"resume-block__salary"}).text.replace("\u2009","").replace("\xa0", " ")
+    except:
+        salary =""
+    try:
+        tags = [tag.text for tag in soup.find(attrs={"class":"bloko-tag-list"}).find_all(attrs={"span":"bloko-tag__section_text"})]
+    except:
+        tags =[]
+    resume = {
+        "name":name,
+        "salary":salary,
+        "link":link,
+        "tags": tags
+    }
+    return resume
 
 if __name__ == "__main__":
-   for a in get_links("BI-аналитик"):
-       print(a)
-"""
-ua = fake_useragent.UserAgent()
-data = requests.get(
-    url="https://krasnoyarsk.hh.ru/search/vacancy?L_save_area=true&text={text}&excluded_text=&area=113&salary=&currency_code=RUR&experience=doesNotMatter&order_by=relevance&search_period=0&items_on_page=50&page={page}",
-    headers={"user-agent": ua.random}
-)
-soup = BeautifulSoup(data.content, 'lxml')
-print()
-
-for i in soup.find("div", attrs={"data-qa":"vacancy-serp__results"}).find_all("div", attrs={"class":"serp-item_link"}):
-    print(i.find("a", "bloko-link"))
-    
-    
-    
-    for i in soup.find("div", attrs={"data-qa":"vacancy-serp__results"}).find_all("div", attrs={"class":"serp-item_link"}):
-                        print(i.find("a", "bloko-link"))
-"""
+    data = []
+    for a in get_links("BI-аналитик"):
+        data.append(get_resume(a))
+        time.sleep(0.2)
+        with open("data.json","w",encoding="utf-8") as f:
+            json.dump(data,f,indent=4,ensure_ascii=False)
