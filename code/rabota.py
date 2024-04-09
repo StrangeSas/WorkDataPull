@@ -28,7 +28,7 @@ def get_links(text):
     try:
         page_count = int(soup.find("div", attrs={"class":"pager"}).find_all("span", recursive=False)[-1].find("a").find("span").text)
     except:
-        page_count = 0
+        return
     for page in range(page_count):
         try:
             data = requests.get(
@@ -38,9 +38,7 @@ def get_links(text):
             if data.status_code == 200:
                 soup = BeautifulSoup(data.content, "lxml")
                 for i in soup.find("div", attrs={"data-qa":"vacancy-serp__results"}).find_all("div", attrs={"class":"serp-item"}):
-                    #Находятся все ссылки в блоке, после чего они все приписываются в лист. Из него
-                    #берётся первая ссылка, что ссылат на работу, а не на компанию
-                    yield f'{i.find_all("a", "bloko-link")[0].attrs["href"].split("?")[0]}'
+                    yield f'{i.find("a", "bloko-link").attrs["href"].split("?")[0]}'
         except Exception as e:
             print(f"{e}")
         time.sleep(0.1)
@@ -55,28 +53,28 @@ def get_resume(link):
         return
     soup = BeautifulSoup(data.content, "lxml")
     try:
-        name = soup.find(attrs={"data-qa":"vacancy-title"}).text
+        name = soup.find(attrs={"class":"resume-block__title-text"}).text
     except:
         name =""
     try:
-        salary = soup.find(attrs={"data-qa":"vacancy-salary-compensation-type-net"}).text.replace("\u2009","").replace("\xa0", " ")
+        salary = soup.find(attrs={"class":"resume-block__salary"}).text.replace("\u2009","").replace("\xa0", " ")
     except:
         salary =""
     try:
-        exp = soup.find(attrs={"data-qa":"vacancy-experience"}).text.replace("\u2009","").replace("\xa0", " ")
+        tags = [tag.text for tag in soup.find(attrs={"class":"bloko-tag-list"}).find_all(attrs={"span":"bloko-tag__section_text"})]
     except:
-        exp = ""
+        tags =[]
     resume = {
         "name":name,
         "salary":salary,
         "link":link,
-        "exp": exp
+        "tags": tags
     }
     return resume
 
 if __name__ == "__main__":
     data = []
-    for a in get_links("BI-analytic"):
+    for a in get_links("BI-аналитик"):
         data.append(get_resume(a))
         time.sleep(0.1)
         with open("data.json","w",encoding="utf-8") as f:
