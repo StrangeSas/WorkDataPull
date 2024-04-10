@@ -12,6 +12,8 @@ import json
 Вспомнился прикол с созданием системы, по взбиранию всего информационного следа о пользователе
 благодаря которому машина потом берёт место человека, продолжая его деятельность, будто ничего
 не изменилось.
+
+Хм... Мне нужно потыкать с тем, как сделать торовское шифрование исходящего трафика
 """
 
 def get_links(text):
@@ -23,7 +25,7 @@ def get_links(text):
     )
     soup = BeautifulSoup(data.content, 'lxml')
     try:
-        page_count = int(soup.find("div", attrs={"class":"pagination-hidden-zHaij"}).find_all("a", recursive=False)[-1].attrs["data-value"].text)
+        page_count = int(soup.find("div", attrs={"class":"pagination-pages clearfix"}).find_all("a", recursive=False)[-1].attrs["href"].split("=")[-1].text)
     except:
         page_count = 1
     for page in range(page_count):
@@ -40,7 +42,7 @@ def get_links(text):
                     yield f'https://www.avito.ru{i.find_all("a", attrs={"itemprop":"url"})[0].attrs["href"].split("?")[0]}'
         except Exception as e:
             print(f"{e}")
-        time.sleep(0.1)
+        time.sleep(0.2)
     print(page_count)
 def get_resume(link):
     ua = fake_useragent.UserAgent()
@@ -71,12 +73,13 @@ def get_resume(link):
     }
     return resume
 
-if __name__ == "__main__":
-    data = []
-    for a in get_links("Уборщик"):
-        data.append(get_resume(a))
-        time.sleep(0.1)
-        with open("data.json","w",encoding="utf-8") as f:
-            json.dump(data,f,indent=4,ensure_ascii=False)
+def put_in_json_av(stra):
+    if __name__ == "__main__":
+        data = []
+        for a in get_links(stra):
+            data.append(get_resume(a))
+            time.sleep(0.1)
+            with open("data.json","w",encoding="utf-8") as f:
+                json.dump(data,f,indent=4,ensure_ascii=False)
 
-        print(a)
+

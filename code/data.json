@@ -1,26 +1,602 @@
 [
     {
-        "name": "",
+        "name": "Копирайтер (финансы, комплаенс)",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
-        "tags": []
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
+        "exp": "1–3 года"
     },
     {
-        "name": "",
+        "name": "UI Writer and Localization Manager",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
-        "tags": []
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "exp": "1–3 года"
     },
     {
-        "name": "",
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Лингвист-аналитик",
+        "salary": "от 95 000 ₽ на руки",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Social Media Specialist / Content Editor for New Media in MENA",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "SEO copywriter (english/portuguese)",
         "salary": "",
         "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
-        "tags": []
+        "exp": "1–3 года"
+    },
+    {
+        "name": "SMM Manager (Morocco)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Interns Copywriters",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Content Editor in Books Section",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Разработчик C# (WPF) Frontend Developer",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Project Manager (Outsource)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Инженер электросвязи 2 категории",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Копирайтер (финансы, комплаенс)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "SMM Manager (Morocco)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Интернет-маркетолог",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Social Media Specialist / Content Editor for New Media in MENA",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "PR manager UAE, Dubai",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Разработчик C# (WPF) Frontend Developer",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Interns Copywriters",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Лингвист-аналитик",
+        "salary": "от 95 000 ₽ на руки",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Content Editor in Books Section",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Инженер электросвязи 2 категории",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "PR manager UAE, Dubai",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Интернет-маркетолог",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Project Manager (Outsource)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Interns Copywriters",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "exp": "1–3 года"
     },
     {
         "name": "",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94665252",
-        "tags": []
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "exp": ""
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Лингвист-аналитик",
+        "salary": "от 95 000 ₽ на руки",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "SMM Manager (Morocco)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Копирайтер (финансы, комплаенс)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Social Media Specialist / Content Editor for New Media in MENA",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Project Manager (Outsource)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Content Editor in Books Section",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
+        "exp": "не требуется"
+    },
+    {
+        "name": "PR manager UAE, Dubai",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Интернет-маркетолог",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Инженер электросвязи 2 категории",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Разработчик C# (WPF) Frontend Developer",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Interns Copywriters",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "SMM Manager (Morocco)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Копирайтер (финансы, комплаенс)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Content Editor in Books Section",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Лингвист-аналитик",
+        "salary": "от 95 000 ₽ на руки",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Разработчик C# (WPF) Frontend Developer",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Project Manager (Outsource)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Social Media Specialist / Content Editor for New Media in MENA",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Копирайтер (финансы, комплаенс)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "SMM Manager (Morocco)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "PR manager UAE, Dubai",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Лингвист-аналитик",
+        "salary": "от 95 000 ₽ на руки",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Интернет-маркетолог",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Разработчик C# (WPF) Frontend Developer",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Копирайтер",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "Interns Copywriters",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Инженер электросвязи 2 категории",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Technical English Editor",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Social Media Specialist / Content Editor for New Media in MENA",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
+        "exp": "1–3 года"
+    },
+    {
+        "name": "PR manager UAE, Dubai",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Content Editor in Books Section",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Интернет-маркетолог",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
+        "exp": "не требуется"
+    },
+    {
+        "name": "Инженер электросвязи 2 категории",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Project Manager (Outsource)",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
+        "exp": "3–6 лет"
+    },
+    {
+        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
+        "salary": "",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
+        "exp": "3–6 лет"
     }
 ]
