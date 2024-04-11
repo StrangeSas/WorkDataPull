@@ -1,602 +1,1002 @@
 [
     {
-        "name": "Копирайтер (финансы, комплаенс)",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96127450",
+        "name": "ML Ops (text2image, image2image)",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
-        "exp": "1–3 года"
+        "about": "Революционный AI для маркетплейсов",
+        "region": "Москва",
+        "company": "Flexy",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
     },
     {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "We are looking for a creative person with experience in creating educational content to join our team.",
+        "region": "Москва",
+        "company": "Creators International School",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "about": "We are looking for a SEO copywriter!",
+        "region": "Москва",
+        "company": "Lenkep recruitment",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95895578",
+        "name": "Senior NLP Engineer / ML / LLM / Data Science / AI инженер (удаленно)",
+        "salary": "",
+        "about": "Компания Nexpanse создает мобильные B2C продукты на базе generative AI технологий. Мы ищем опытного NLP/AI инженера, который сможет реализовывать AI сервисы от стадии исследований до выпуска в продакшн.",
+        "region": "Москва",
+        "company": "Nexpanse",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95506174",
+        "name": "Content-manager",
+        "salary": "",
+        "about": "",
+        "region": "Екатеринбург",
+        "company": "Парфюмерно-косметический супермаркет Золотое Яблоко",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94749035",
+        "name": "Аналитик данных / Data Scientist",
+        "salary": "",
+        "about": "Наш продукт - независимая платформа для b2b в содружестве с крупнейшим девелопером ФСКСейчас расширяем команду DSЧто потребуется на этой позиции",
+        "region": "",
+        "company": "RedCat",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "name": "Interns Copywriters",
+        "salary": "",
+        "about": "Responsibilities:",
+        "region": "Алматы",
+        "company": "ТОО Samsung Electronics Central Eurasia LLP.",
+        "exp": "не требуется",
+        "emp_mode": "Стажировка, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "Department : Marketing, Communications and Public Relations",
+        "region": "",
+        "company": "KIMEP",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96594701",
+        "name": "Email Marketing specialist (CRM marketing)",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Гриндата",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96195477",
+        "name": "Контент-менеджер",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Атлон ФМ",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96642646",
+        "name": "Дизайнер",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "ООО Современные Фонды Недвижимости",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96638955",
+        "name": "Web Content Analyst",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "Лаборатория Касперского",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94557771",
+        "name": "Senior Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "более 6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Санкт-Петербург",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93041632",
+        "name": "Консультант SAP на первую линию поддержки",
+        "salary": "",
+        "about": "",
+        "region": "Белгород",
+        "company": "Мираторг, Агропромышленный холдинг",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
         "name": "UI Writer and Localization Manager",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
-        "exp": "1–3 года"
+        "about": "With over 50 products and 2 billion installs worldwide, AIBY is at the forefront of mobile-first product development with a focus on AI technology. Innovation and team spirit are the backbones of our company, and thanks to them, we are proud of titles like ChatOn, Arta, Forma, Plantum, Fonts Art, and Themify. At AIBY, you can enjoy the work you do while helping millions of people.",
+        "region": "Минск",
+        "company": "AIBY",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
     },
     {
-        "name": "Копирайтер",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94660460",
+        "name": "Специалист по агрономии и логистике сырья",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
-        "exp": "3–6 лет"
+        "about": "«Русагро» – это один из крупнейших вертикально интегрированных агрохолдингов в России. Мы - первые по производству подсолнечных масел, маргарина и кускового сахара, третьи по производству майонезов и свинины. Продукция нашей компании точно есть на Вашей кухне: \"Чайкофский\", \"Русский сахар\", \"Брауни\", \"Московский провансаль\", \"ЕЖК\", \"Мечта хозяйки\", \"Россиянка\", \"Слово мясника\" – это лишь некоторые наши бренды.",
+        "region": "",
+        "company": "ООО «РУСАГРО», Сахарное бизнес-направление",
+        "exp": "не требуется",
+        "emp_mode": "Полная занятость, полный день"
     },
     {
-        "name": "Лингвист-аналитик",
-        "salary": "от 95 000 ₽ на руки",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
-        "exp": "1–3 года"
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95866510",
+        "name": "Hotel Manager (Apart Hotel)",
+        "salary": "от 830 до 1 350 $ на руки",
+        "about": "О вакансии",
+        "region": "Владивосток",
+        "company": "ИП Гурьянов Владимир Петрович",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
     },
     {
-        "name": "Social Media Specialist / Content Editor for New Media in MENA",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "SEO copywriter (english/portuguese)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "SMM Manager (Morocco)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Interns Copywriters",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Копирайтер",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
-        "exp": "1–3 года"
-    },
-    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
         "name": "Technical English Editor",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
-        "exp": "3–6 лет"
+        "about": "",
+        "region": "Москва",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
     },
     {
-        "name": "Content Editor in Books Section",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
-        "exp": "не требуется"
-    },
-    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
         "name": "Middle+ Computer Vision Researcher (удаленно)",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
-        "exp": "3–6 лет"
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
     },
     {
-        "name": "Разработчик C# (WPF) Frontend Developer",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Project Manager (Outsource)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Technical English Editor",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Инженер электросвязи 2 категории",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Копирайтер (финансы, комплаенс)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "SMM Manager (Morocco)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Интернет-маркетолог",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
-        "exp": "не требуется"
-    },
-    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
         "name": "Копирайтер",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
-        "exp": "3–6 лет"
+        "about": "We are looking for a creative person with experience in creating educational content to join our team.",
+        "region": "Москва",
+        "company": "Creators International School",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, полный день"
     },
     {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95506174",
+        "name": "Content-manager",
+        "salary": "",
+        "about": "",
+        "region": "Екатеринбург",
+        "company": "Парфюмерно-косметический супермаркет Золотое Яблоко",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
         "name": "UI Writer and Localization Manager",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
-        "exp": "1–3 года"
+        "about": "With over 50 products and 2 billion installs worldwide, AIBY is at the forefront of mobile-first product development with a focus on AI technology. Innovation and team spirit are the backbones of our company, and thanks to them, we are proud of titles like ChatOn, Arta, Forma, Plantum, Fonts Art, and Themify. At AIBY, you can enjoy the work you do while helping millions of people.",
+        "region": "Минск",
+        "company": "AIBY",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
     },
     {
-        "name": "Social Media Specialist / Content Editor for New Media in MENA",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "name": "SEO copywriter (english/portuguese)",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
-        "exp": "1–3 года"
+        "about": "We are looking for a SEO copywriter!",
+        "region": "Москва",
+        "company": "Lenkep recruitment",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
     },
     {
-        "name": "Копирайтер",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96127450",
+        "name": "ML Ops (text2image, image2image)",
         "salary": "",
+        "about": "Революционный AI для маркетплейсов",
+        "region": "Москва",
+        "company": "Flexy",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95895578",
+        "name": "Senior NLP Engineer / ML / LLM / Data Science / AI инженер (удаленно)",
+        "salary": "",
+        "about": "Компания Nexpanse создает мобильные B2C продукты на базе generative AI технологий. Мы ищем опытного NLP/AI инженера, который сможет реализовывать AI сервисы от стадии исследований до выпуска в продакшн.",
+        "region": "Москва",
+        "company": "Nexpanse",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
         "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "PR manager UAE, Dubai",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "SEO copywriter (english/portuguese)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Разработчик C# (WPF) Frontend Developer",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Interns Copywriters",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Лингвист-аналитик",
-        "salary": "от 95 000 ₽ на руки",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Technical English Editor",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Technical English Editor",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Content Editor in Books Section",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Инженер электросвязи 2 категории",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "PR manager UAE, Dubai",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Интернет-маркетолог",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Project Manager (Outsource)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Interns Copywriters",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
-        "exp": "3–6 лет"
-    },
-    {
         "name": "Копирайтер",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
-        "exp": "3–6 лет"
+        "about": "Department : Marketing, Communications and Public Relations",
+        "region": "",
+        "company": "KIMEP",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
     },
     {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96594701",
+        "name": "Email Marketing specialist (CRM marketing)",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Гриндата",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94749035",
+        "name": "Аналитик данных / Data Scientist",
+        "salary": "",
+        "about": "Наш продукт - независимая платформа для b2b в содружестве с крупнейшим девелопером ФСКСейчас расширяем команду DSЧто потребуется на этой позиции",
+        "region": "",
+        "company": "RedCat",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "name": "Interns Copywriters",
+        "salary": "",
+        "about": "Responsibilities:",
+        "region": "Алматы",
+        "company": "ТОО Samsung Electronics Central Eurasia LLP.",
+        "exp": "не требуется",
+        "emp_mode": "Стажировка, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96195477",
+        "name": "Контент-менеджер",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Атлон ФМ",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94557771",
+        "name": "Senior Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "более 6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93041632",
+        "name": "Консультант SAP на первую линию поддержки",
+        "salary": "",
+        "about": "",
+        "region": "Белгород",
+        "company": "Мираторг, Агропромышленный холдинг",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96642646",
+        "name": "Дизайнер",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "ООО Современные Фонды Недвижимости",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96638955",
+        "name": "Web Content Analyst",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "Лаборатория Касперского",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Санкт-Петербург",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95866510",
+        "name": "Hotel Manager (Apart Hotel)",
+        "salary": "от 830 до 1 350 $ на руки",
+        "about": "О вакансии",
+        "region": "Владивосток",
+        "company": "ИП Гурьянов Владимир Петрович",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96127450",
+        "name": "ML Ops (text2image, image2image)",
+        "salary": "",
+        "about": "Революционный AI для маркетплейсов",
+        "region": "Москва",
+        "company": "Flexy",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94660460",
+        "name": "Специалист по агрономии и логистике сырья",
+        "salary": "",
+        "about": "«Русагро» – это один из крупнейших вертикально интегрированных агрохолдингов в России. Мы - первые по производству подсолнечных масел, маргарина и кускового сахара, третьи по производству майонезов и свинины. Продукция нашей компании точно есть на Вашей кухне: \"Чайкофский\", \"Русский сахар\", \"Брауни\", \"Московский провансаль\", \"ЕЖК\", \"Мечта хозяйки\", \"Россиянка\", \"Слово мясника\" – это лишь некоторые наши бренды.",
+        "region": "",
+        "company": "ООО «РУСАГРО», Сахарное бизнес-направление",
+        "exp": "не требуется",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94557771",
+        "name": "Senior Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "более 6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "Department : Marketing, Communications and Public Relations",
+        "region": "",
+        "company": "KIMEP",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "name": "Interns Copywriters",
+        "salary": "",
+        "about": "Responsibilities:",
+        "region": "Алматы",
+        "company": "ТОО Samsung Electronics Central Eurasia LLP.",
+        "exp": "не требуется",
+        "emp_mode": "Стажировка, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
         "name": "SEO copywriter (english/portuguese)",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
-        "exp": "1–3 года"
+        "about": "We are looking for a SEO copywriter!",
+        "region": "Москва",
+        "company": "Lenkep recruitment",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
     },
     {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95895578",
+        "name": "Senior NLP Engineer / ML / LLM / Data Science / AI инженер (удаленно)",
+        "salary": "",
+        "about": "Компания Nexpanse создает мобильные B2C продукты на базе generative AI технологий. Мы ищем опытного NLP/AI инженера, который сможет реализовывать AI сервисы от стадии исследований до выпуска в продакшн.",
+        "region": "Москва",
+        "company": "Nexpanse",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "We are looking for a creative person with experience in creating educational content to join our team.",
+        "region": "Москва",
+        "company": "Creators International School",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "about": "With over 50 products and 2 billion installs worldwide, AIBY is at the forefront of mobile-first product development with a focus on AI technology. Innovation and team spirit are the backbones of our company, and thanks to them, we are proud of titles like ChatOn, Arta, Forma, Plantum, Fonts Art, and Themify. At AIBY, you can enjoy the work you do while helping millions of people.",
+        "region": "Минск",
+        "company": "AIBY",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96195477",
+        "name": "Контент-менеджер",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Атлон ФМ",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95506174",
+        "name": "Content-manager",
+        "salary": "",
+        "about": "",
+        "region": "Екатеринбург",
+        "company": "Парфюмерно-косметический супермаркет Золотое Яблоко",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96642646",
+        "name": "Дизайнер",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "ООО Современные Фонды Недвижимости",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93041632",
+        "name": "Консультант SAP на первую линию поддержки",
+        "salary": "",
+        "about": "",
+        "region": "Белгород",
+        "company": "Мираторг, Агропромышленный холдинг",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95866510",
+        "name": "Hotel Manager (Apart Hotel)",
+        "salary": "от 830 до 1 350 $ на руки",
+        "about": "О вакансии",
+        "region": "Владивосток",
+        "company": "ИП Гурьянов Владимир Петрович",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96638955",
+        "name": "Web Content Analyst",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "Лаборатория Касперского",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94749035",
+        "name": "Аналитик данных / Data Scientist",
+        "salary": "",
+        "about": "Наш продукт - независимая платформа для b2b в содружестве с крупнейшим девелопером ФСКСейчас расширяем команду DSЧто потребуется на этой позиции",
+        "region": "",
+        "company": "RedCat",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Санкт-Петербург",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96594701",
+        "name": "Email Marketing specialist (CRM marketing)",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Гриндата",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94660460",
+        "name": "Специалист по агрономии и логистике сырья",
+        "salary": "",
+        "about": "«Русагро» – это один из крупнейших вертикально интегрированных агрохолдингов в России. Мы - первые по производству подсолнечных масел, маргарина и кускового сахара, третьи по производству майонезов и свинины. Продукция нашей компании точно есть на Вашей кухне: \"Чайкофский\", \"Русский сахар\", \"Брауни\", \"Московский провансаль\", \"ЕЖК\", \"Мечта хозяйки\", \"Россиянка\", \"Слово мясника\" – это лишь некоторые наши бренды.",
+        "region": "",
+        "company": "ООО «РУСАГРО», Сахарное бизнес-направление",
+        "exp": "не требуется",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96127450",
+        "name": "ML Ops (text2image, image2image)",
+        "salary": "",
+        "about": "Революционный AI для маркетплейсов",
+        "region": "Москва",
+        "company": "Flexy",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "name": "Interns Copywriters",
+        "salary": "",
+        "about": "Responsibilities:",
+        "region": "Алматы",
+        "company": "ТОО Samsung Electronics Central Eurasia LLP.",
+        "exp": "не требуется",
+        "emp_mode": "Стажировка, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "about": "With over 50 products and 2 billion installs worldwide, AIBY is at the forefront of mobile-first product development with a focus on AI technology. Innovation and team spirit are the backbones of our company, and thanks to them, we are proud of titles like ChatOn, Arta, Forma, Plantum, Fonts Art, and Themify. At AIBY, you can enjoy the work you do while helping millions of people.",
+        "region": "Минск",
+        "company": "AIBY",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95895578",
+        "name": "Senior NLP Engineer / ML / LLM / Data Science / AI инженер (удаленно)",
+        "salary": "",
+        "about": "Компания Nexpanse создает мобильные B2C продукты на базе generative AI технологий. Мы ищем опытного NLP/AI инженера, который сможет реализовывать AI сервисы от стадии исследований до выпуска в продакшн.",
+        "region": "Москва",
+        "company": "Nexpanse",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94557771",
+        "name": "Senior Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "более 6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "We are looking for a creative person with experience in creating educational content to join our team.",
+        "region": "Москва",
+        "company": "Creators International School",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93041632",
+        "name": "Консультант SAP на первую линию поддержки",
+        "salary": "",
+        "about": "",
+        "region": "Белгород",
+        "company": "Мираторг, Агропромышленный холдинг",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "Department : Marketing, Communications and Public Relations",
+        "region": "",
+        "company": "KIMEP",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94749035",
+        "name": "Аналитик данных / Data Scientist",
+        "salary": "",
+        "about": "Наш продукт - независимая платформа для b2b в содружестве с крупнейшим девелопером ФСКСейчас расширяем команду DSЧто потребуется на этой позиции",
+        "region": "",
+        "company": "RedCat",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96195477",
+        "name": "Контент-менеджер",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Атлон ФМ",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95506174",
+        "name": "Content-manager",
+        "salary": "",
+        "about": "",
+        "region": "Екатеринбург",
+        "company": "Парфюмерно-косметический супермаркет Золотое Яблоко",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "about": "We are looking for a SEO copywriter!",
+        "region": "Москва",
+        "company": "Lenkep recruitment",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96642646",
+        "name": "Дизайнер",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "ООО Современные Фонды Недвижимости",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96638955",
+        "name": "Web Content Analyst",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "Лаборатория Касперского",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96594701",
+        "name": "Email Marketing specialist (CRM marketing)",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Гриндата",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Санкт-Петербург",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
+        "name": "Technical English Editor",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96127450",
+        "name": "ML Ops (text2image, image2image)",
+        "salary": "",
+        "about": "Революционный AI для маркетплейсов",
+        "region": "Москва",
+        "company": "Flexy",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95866510",
+        "name": "Hotel Manager (Apart Hotel)",
+        "salary": "от 830 до 1 350 $ на руки",
+        "about": "О вакансии",
+        "region": "Владивосток",
+        "company": "ИП Гурьянов Владимир Петрович",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
+        "name": "UI Writer and Localization Manager",
+        "salary": "",
+        "about": "With over 50 products and 2 billion installs worldwide, AIBY is at the forefront of mobile-first product development with a focus on AI technology. Innovation and team spirit are the backbones of our company, and thanks to them, we are proud of titles like ChatOn, Arta, Forma, Plantum, Fonts Art, and Themify. At AIBY, you can enjoy the work you do while helping millions of people.",
+        "region": "Минск",
+        "company": "AIBY",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
+        "name": "Middle+ Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94660460",
+        "name": "Специалист по агрономии и логистике сырья",
+        "salary": "",
+        "about": "«Русагро» – это один из крупнейших вертикально интегрированных агрохолдингов в России. Мы - первые по производству подсолнечных масел, маргарина и кускового сахара, третьи по производству майонезов и свинины. Продукция нашей компании точно есть на Вашей кухне: \"Чайкофский\", \"Русский сахар\", \"Брауни\", \"Московский провансаль\", \"ЕЖК\", \"Мечта хозяйки\", \"Россиянка\", \"Слово мясника\" – это лишь некоторые наши бренды.",
+        "region": "",
+        "company": "ООО «РУСАГРО», Сахарное бизнес-направление",
+        "exp": "не требуется",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95895578",
+        "name": "Senior NLP Engineer / ML / LLM / Data Science / AI инженер (удаленно)",
+        "salary": "",
+        "about": "Компания Nexpanse создает мобильные B2C продукты на базе generative AI технологий. Мы ищем опытного NLP/AI инженера, который сможет реализовывать AI сервисы от стадии исследований до выпуска в продакшн.",
+        "region": "Москва",
+        "company": "Nexpanse",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
+        "name": "Interns Copywriters",
+        "salary": "",
+        "about": "Responsibilities:",
+        "region": "Алматы",
+        "company": "ТОО Samsung Electronics Central Eurasia LLP.",
+        "exp": "не требуется",
+        "emp_mode": "Стажировка, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94557771",
+        "name": "Senior Computer Vision Researcher (удаленно)",
+        "salary": "",
+        "about": "ZennoLab — ﻿продуктовая IT-компания, аккредитованная в Минцифры. С 2008 года мы разрабатываем лидирующие продукты для автоматизации процессов в браузере и работаем над созданием лучшего клиентского опыта.",
+        "region": "Москва",
+        "company": "ZennoLab",
+        "exp": "более 6 лет",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/93041632",
+        "name": "Консультант SAP на первую линию поддержки",
+        "salary": "",
+        "about": "",
+        "region": "Белгород",
+        "company": "Мираторг, Агропромышленный холдинг",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "We are looking for a creative person with experience in creating educational content to join our team.",
+        "region": "Москва",
+        "company": "Creators International School",
+        "exp": "3–6 лет",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96195477",
+        "name": "Контент-менеджер",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Атлон ФМ",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
+        "name": "Копирайтер",
+        "salary": "",
+        "about": "Department : Marketing, Communications and Public Relations",
+        "region": "",
+        "company": "KIMEP",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94749035",
+        "name": "Аналитик данных / Data Scientist",
+        "salary": "",
+        "about": "Наш продукт - независимая платформа для b2b в содружестве с крупнейшим девелопером ФСКСейчас расширяем команду DSЧто потребуется на этой позиции",
+        "region": "",
+        "company": "RedCat",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
+        "name": "SEO copywriter (english/portuguese)",
+        "salary": "",
+        "about": "We are looking for a SEO copywriter!",
+        "region": "Москва",
+        "company": "Lenkep recruitment",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
         "name": "",
         "salary": "",
+        "about": "",
+        "region": "",
+        "company": "",
+        "exp": "",
+        "emp_mode": ""
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95506174",
+        "name": "Content-manager",
+        "salary": "",
+        "about": "",
+        "region": "Екатеринбург",
+        "company": "Парфюмерно-косметический супермаркет Золотое Яблоко",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96638955",
+        "name": "Web Content Analyst",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "Лаборатория Касперского",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96642646",
+        "name": "Дизайнер",
+        "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "ООО Современные Фонды Недвижимости",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, полный день"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/96594701",
+        "name": "Email Marketing specialist (CRM marketing)",
+        "salary": "",
+        "about": "",
+        "region": "",
+        "company": "ООО Гриндата",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
+        "link": "https://krasnoyarsk.hh.ru/vacancy/95866510",
+        "name": "Hotel Manager (Apart Hotel)",
+        "salary": "от 830 до 1 350 $ на руки",
+        "about": "О вакансии",
+        "region": "Владивосток",
+        "company": "ИП Гурьянов Владимир Петрович",
+        "exp": "1–3 года",
+        "emp_mode": "Полная занятость, удаленная работа"
+    },
+    {
         "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
-        "exp": ""
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
-        "exp": "3–6 лет"
-    },
-    {
         "name": "Technical English Editor",
         "salary": "",
+        "about": "",
+        "region": "Москва",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
+    },
+    {
         "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Лингвист-аналитик",
-        "salary": "от 95 000 ₽ на руки",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Копирайтер",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "SMM Manager (Morocco)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "UI Writer and Localization Manager",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Копирайтер (финансы, комплаенс)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Social Media Specialist / Content Editor for New Media in MENA",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Project Manager (Outsource)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Content Editor in Books Section",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
-        "exp": "не требуется"
-    },
-    {
-        "name": "PR manager UAE, Dubai",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Интернет-маркетолог",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Инженер электросвязи 2 категории",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Разработчик C# (WPF) Frontend Developer",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Копирайтер",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Interns Copywriters",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Копирайтер",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "SEO copywriter (english/portuguese)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
-        "exp": "1–3 года"
-    },
-    {
         "name": "Technical English Editor",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
-        "exp": "3–6 лет"
+        "about": "",
+        "region": "Санкт-Петербург",
+        "company": "Яндекс Крауд",
+        "exp": "3–6 лет",
+        "emp_mode": "Частичная занятость, удаленная работа"
     },
     {
-        "name": "Technical English Editor",
+        "link": "https://krasnoyarsk.hh.ru/vacancy/94660460",
+        "name": "Специалист по агрономии и логистике сырья",
         "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "SMM Manager (Morocco)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Копирайтер (финансы, комплаенс)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "UI Writer and Localization Manager",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Content Editor in Books Section",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Лингвист-аналитик",
-        "salary": "от 95 000 ₽ на руки",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Разработчик C# (WPF) Frontend Developer",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Project Manager (Outsource)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Social Media Specialist / Content Editor for New Media in MENA",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Копирайтер (финансы, комплаенс)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95394092",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Копирайтер",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94698682",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "UI Writer and Localization Manager",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95815074",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "SMM Manager (Morocco)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95469683",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "SEO copywriter (english/portuguese)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96386085",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "PR manager UAE, Dubai",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Лингвист-аналитик",
-        "salary": "от 95 000 ₽ на руки",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/82742802",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Интернет-маркетолог",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Разработчик C# (WPF) Frontend Developer",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95697490",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Копирайтер",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94964029",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "Interns Copywriters",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96496516",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Инженер электросвязи 2 категории",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96549138",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Technical English Editor",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106362",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Technical English Editor",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/92106363",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Social Media Specialist / Content Editor for New Media in MENA",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530361",
-        "exp": "1–3 года"
-    },
-    {
-        "name": "PR manager UAE, Dubai",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96389515",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Content Editor in Books Section",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/95422842",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Интернет-маркетолог",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96282873",
-        "exp": "не требуется"
-    },
-    {
-        "name": "Инженер электросвязи 2 категории",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/94488016",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Middle+ Computer Vision Researcher (удаленно)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/93696854",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Project Manager (Outsource)",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96506160",
-        "exp": "3–6 лет"
-    },
-    {
-        "name": "Руководитель группы тестирования Python, Маркетплейс, Навыки чат-ботов",
-        "salary": "",
-        "link": "https://krasnoyarsk.hh.ru/vacancy/96530280",
-        "exp": "3–6 лет"
+        "about": "«Русагро» – это один из крупнейших вертикально интегрированных агрохолдингов в России. Мы - первые по производству подсолнечных масел, маргарина и кускового сахара, третьи по производству майонезов и свинины. Продукция нашей компании точно есть на Вашей кухне: \"Чайкофский\", \"Русский сахар\", \"Брауни\", \"Московский провансаль\", \"ЕЖК\", \"Мечта хозяйки\", \"Россиянка\", \"Слово мясника\" – это лишь некоторые наши бренды.",
+        "region": "",
+        "company": "ООО «РУСАГРО», Сахарное бизнес-направление",
+        "exp": "не требуется",
+        "emp_mode": "Полная занятость, полный день"
     }
 ]

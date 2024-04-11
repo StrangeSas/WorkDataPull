@@ -18,6 +18,22 @@ import concurrent.futures
 
 """
 
+"""
+По сути, следует смотреть что надо брать, а потом на основе этого тыкать уже лишь один элемент
+А как с ним закончишь - начать ебаться уже с рофляночками того, как ты будешь экстраполировать
+код одного элемента на все элементы.
+(Следует нормально планировать сначало работу одного элемента, а потом его тыкать на множество)
+
+При присвоении куска кода html, ты можешь уже не через суп тыкать, а через него
+
+
+https://www.youtube.com/watch?v=mBoX_JCKZTE
+https://www.youtube.com/watch?v=j7VZsCCnptM
+https://www.youtube.com/watch?v=dIUTsFT2MeQ
+https://www.youtube.com/watch?v=mEsleV16qdo
+https://www.youtube.com/watch?v=UU1WVnMk4E8
+"""
+
 def get_links(text):
     ua = fake_useragent.UserAgent()
     data = requests.get(
@@ -55,15 +71,15 @@ def get_resume(link):
         return
     soup = BeautifulSoup(data.content, "lxml")
 
-    #Название вакансии, описание вакансии, зп, регион, работодатель
-    #Требования, опыт работы, график работы ,
+    #Название вакансии+, описание вакансии+, зп+, регион+, работодатель+
+    #Требования, опыт работы+, график работы ,
 
     try:
-        name = soup.find(attrs={"data-qa":"vacancy-title"}).text
+        name = soup.find(attrs={"data-qa":"vacancy-title"} ).text
     except:
         name =""
     try:
-        about = soup.find(attrs={"class":"g-user-content"}).find("p").text
+        about = soup.find(attrs={"class":"g-user-content"}).p.text
     except:
         about = ""
     try:
@@ -71,18 +87,30 @@ def get_resume(link):
     except:
         salary =""
     try:
-        region = soup.find("p", attrs={"data-qa":"vacancy-view-location"}).text
+        region = soup.find(attrs={"data-qa":"vacancy-view-location"}).text
     except:
         region = ""
+    try:
+        company = soup.find(attrs={"data-qa":"vacancy-company-name"}).find("span").text
+    except:
+        company = ""
     try:
         exp = soup.find(attrs={"data-qa":"vacancy-experience"}).text.replace("\u2009","").replace("\xa0", " ")
     except:
         exp = ""
+    try:
+        emp_mode = soup.find(attrs={"data-qa":"vacancy-view-employment-mode"}).text
+    except:
+        emp_mode = ""
     resume = {
+        "link":link,
         "name":name,
         "salary":salary,
-        "link":link,
-        "exp": exp
+        "about": about,
+        "region": region,
+        "company": company,
+        "exp": exp,
+        "emp_mode":emp_mode,
     }
     return resume
 
